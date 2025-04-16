@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "wxcjwdtrpo13yd4k4";
+const API_KEY = "wxleci2rd090r170y";
 const API_URL = "https://techhk.aoscdn.com/";
 
 
